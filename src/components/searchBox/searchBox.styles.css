@@ -1,0 +1,16 @@
+.search
+{
+    border: none;
+    /* click karne ke baad boder ko show nahi karna h */
+    outline: none;
+    padding: 10px;
+    width: 150px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.searchContainer
+{
+    width: 100%;
+    align-items: center;
+}
